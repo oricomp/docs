@@ -1,0 +1,10 @@
+#+title: OriComp Documentation
+#+auto_tangle: nil
+
+This repository contains all documentation for every *OriComp* module. The
+documentation can also be found in the repository containing the module.
+
+Most of the documentation is auto-generated and put into this repository, but
+not all of it is. If the documentation is auto-generated, there will be a comment
+at the beginning of the source file explaining that it is auto-generated and where
+the original version can be found.
